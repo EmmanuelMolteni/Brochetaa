@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brochetaa
-- 👀 I’m interested in learning to code and work with other developers.
+- 👀 I’m interested in learning how to code and work with other developers.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on Video Game Projects.
 - 📫 How to reach me on telegram as @brocheyeen or mail: beyondtheuknown@gmail.com
