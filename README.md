@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Brochetaa
+- 👋 Hi, I’m @EmmanuelMolteni
 - 👀 I’m interested in learning how to code and work with other developers.
 - 🌱 I’m currently learning Javascript and React.
-- 💞️ I’m looking to collaborate on Video Game Projects.
+- 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me on telegram as @brocheyeen or mail: beyondtheuknown@gmail.com
-
-<!---
-Brochetaa/Brochetaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
